@@ -1,3 +1,5 @@
+// #BRUTE FORCE APPROACH
+
 import java.util.Scanner;
 
 public class sortArray {
